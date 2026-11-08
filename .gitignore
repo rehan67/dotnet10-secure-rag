@@ -1,0 +1,21 @@
+# Build and Output Folders
+bin/
+obj/
+out/
+TestResults/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# IDE & Editor files
+.vs/
+.idea/
+*.swp
+*.lock
+
+# OS Files
+.DS_Store
+Thumbs.db
